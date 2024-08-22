@@ -84,5 +84,10 @@ Alternatively, you can run the application locally by following the installation
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+**HomePage**
+![Home Page](./Screenshots/HomePage.png)
+**LoginPage**
+![Login Page](./Screenshots/LoginPage.png)\
+**SignUpPage**
+![SignUp Page](./Screenshots/SignUpPage.png)
 
